@@ -1,1 +1,6 @@
-So you are looking at my home page, Lol there isn't anything interesting here, I just do some C++, osdev, android dev, yeah that's all
+I do C++
+I'm creating my language cause C++ is too much undefined behaviour to me
+Also planning on writing an OS with that language
+My only complete project yet is an android app, otherwise I always stop midway
+
+Yeah that's about all I do in programming
